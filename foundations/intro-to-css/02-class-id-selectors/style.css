@@ -1,1 +1,4 @@
-/* Add CSS Styling */
+.impar {
+    background-color: color-mix(light red, pink, 50%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
