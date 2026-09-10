@@ -1,5 +1,5 @@
 .impar {
-    background-color: color-mix(light red, pink, 50%);
+    background-color: #f4cccc;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
@@ -8,3 +8,12 @@
     font-size: 36px;
 }
 
+.addition {
+    font-size: 24px;
+}
+
+#num4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
